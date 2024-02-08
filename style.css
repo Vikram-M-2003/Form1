@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin-bottom: 30px;
+    color: rgb(255, 255, 255);
+    /* font-family: 'Beau Rivage', cursive; */
+}
+.pone{
+    margin-bottom: 20px;
+    
+}
+body{
+    background-image: url(./images/backg.jpg);
+    background-size: cover;
+
+}
+.name{
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 5px;
+    width: 200px;
+    border: black solid 1px;
+    outline: none;
+    border-radius: 5px;
+    font-style: italic;
+}
+.email{
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 5px;
+    width: 200px;
+    border: 1px solid black;
+    outline: none;
+    border-radius: 5px;
+    font-style: italic;
+}
+.pass{
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 5px;
+    width: 200px;
+    border: 1px solid black;
+    outline: none;
+    border-radius: 5px;
+    font-style: italic;
+}
+.sub{
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+    width: 205px;
+    border: 1px solid black;
+    outline: none;
+    border-radius: 5px;
+    font-style: italic; 
+    background-color:black;
+    color: white;
+}
+.subdiv{
+    margin-top: 10px;
+    border: none;
+    outline: none;
+}
+.ptwo{
+    margin-top: 5px;
+}
+form{
+    text-align: center;
+}
+.maindiv{
+    border: solid rgb(146, 14, 111) 2px;
+    border-radius: 5px;
+    margin-top: 140px;
+    padding: 10px 50px 10px 50px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sub:hover{
+    background-color: rgb(54, 157, 54);
+    cursor: pointer;
+}
